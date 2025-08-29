@@ -1,4 +1,4 @@
-# Takeover — TryHackMe
+# TryHackMe Takeover Writeup: GoBuster for vHost Enumeration
 
 Room Link: [Takeover](https://tryhackme.com/room/takeover)
 
